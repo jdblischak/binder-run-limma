@@ -5,7 +5,7 @@ channels:
   - nodefaults
 dependencies:
   - python=3
-  - r-base=4.1.2
+  - r-base=4.1
   - r-biocmanager=1.30.16
   - bioconductor-biobase=2.54.0
   - bioconductor-biocgenerics
