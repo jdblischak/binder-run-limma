@@ -1,7 +1,0 @@
-install.packages("BiocManager")
-BiocManager::install("Biobase")
-BiocManager::install("BiocGenerics")
-BiocManager::install("limma")
-BiocManager::install("GO.db")
-BiocManager::install("org.Hs.eg.db")
-BiocManager::install("org.Mm.eg.db")
